@@ -1,0 +1,5 @@
+D:\github\CountWordFrequency\CountWordFrequency\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+D:\github\CountWordFrequency\CountWordFrequency\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+D:\github\CountWordFrequency\CountWordFrequency\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+D:\github\CountWordFrequency\CountWordFrequency\StrategyLibrary\obj\Debug\StrategyLibrary.pdb
+D:\github\CountWordFrequency\CountWordFrequency\StrategyLibrary\obj\Debug\StrategyLibrary.csprojResolveAssemblyReference.cache

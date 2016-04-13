@@ -1,0 +1,11 @@
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WF.csproj.GenerateResource.Cache
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\bin\Debug\StrategyLibrary.dll
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\bin\Debug\StrategyLibrary.pdb
+D:\github\CountWordFrequency\CountWordFrequency\WindowsFormsApplication1\obj\x86\Debug\WF.csprojResolveAssemblyReference.cache

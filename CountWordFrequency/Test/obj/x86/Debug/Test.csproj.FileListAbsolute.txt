@@ -1,0 +1,8 @@
+D:\github\CountWordFrequency\CountWordFrequency\Test\bin\Debug\Test.exe
+D:\github\CountWordFrequency\CountWordFrequency\Test\bin\Debug\Test.pdb
+D:\github\CountWordFrequency\CountWordFrequency\Test\bin\Debug\StrategyLibrary.dll
+D:\github\CountWordFrequency\CountWordFrequency\Test\bin\Debug\StrategyLibrary.pdb
+D:\github\CountWordFrequency\CountWordFrequency\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+D:\github\CountWordFrequency\CountWordFrequency\Test\obj\x86\Debug\Test.exe
+D:\github\CountWordFrequency\CountWordFrequency\Test\obj\x86\Debug\Test.pdb
+D:\github\CountWordFrequency\CountWordFrequency\Test\bin\Debug\Test.exe.config
