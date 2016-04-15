@@ -87,7 +87,7 @@ namespace WindowsFormsApplication1
                 }
             }
             WordFrequency wf = new WordFrequency();
-            List<Node> list = wf.burnList(str, patterns);
+            List<Node> list = wf.burnList(str, patterns);           
             wf.burnResult(list);
             this.write(list);
         }

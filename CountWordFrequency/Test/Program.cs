@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             string str = "aaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaab";
-            string pattern = "aaaab";
+            string pattern = "aaaabaaaaaaa";
             Context test = new Context();
             Node x = test.matchRun(str, pattern);
             Console.WriteLine("{0}, {1}", x.Count, x.Key);
