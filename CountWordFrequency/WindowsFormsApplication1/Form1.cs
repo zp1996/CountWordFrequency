@@ -63,8 +63,11 @@ namespace WindowsFormsApplication1
         }
         private void Run_Click(object sender, EventArgs e)
         {
+            DateTime old = DateTime.Now;
+            status.Text = "";
             string str = string.Empty;
             string[] patterns = this.burnPatterns();
+            status.Text += "\n\n系统正在读取文件";
             if (unique.Checked == true)
             {
                 if (this._unPath == "" || (this._unPath != "" && UnqiueFilePath.Text != this._unPath)) 
@@ -87,8 +90,12 @@ namespace WindowsFormsApplication1
                 }
             }
             WordFrequency wf = new WordFrequency();
+            status.Text += "\n\n系统工具正在统计词频...";
             List<Node> list = wf.burnList(str, patterns);           
             wf.burnResult(list);
+            status.Text += "\n\n系统工具正在写入文件...";
+            DateTime now = DateTime.Now;
+            status.Text += "\n\n耗时：" + (now- old).TotalSeconds.ToString() + "秒";
             this.write(list);
         }
         private string[] burnPatterns() 

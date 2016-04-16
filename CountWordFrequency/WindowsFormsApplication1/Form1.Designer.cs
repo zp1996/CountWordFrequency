@@ -43,6 +43,7 @@
             this.many = new System.Windows.Forms.RadioButton();
             this.unique = new System.Windows.Forms.RadioButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.status = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -185,6 +186,14 @@
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
+            // status
+            // 
+            this.status.AutoSize = true;
+            this.status.Location = new System.Drawing.Point(332, 271);
+            this.status.Name = "status";
+            this.status.Size = new System.Drawing.Size(0, 12);
+            this.status.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
@@ -192,6 +201,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(856, 504);
+            this.Controls.Add(this.status);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.Run);
@@ -231,6 +241,7 @@
         private System.Windows.Forms.RadioButton many;
         private System.Windows.Forms.RadioButton unique;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label status;
     }
 }
 

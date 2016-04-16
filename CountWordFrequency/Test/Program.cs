@@ -21,10 +21,12 @@ namespace Test
             Node zp2 = new Node("周鹏11", 23);
             Node zp3 = new Node("周鹏11", 25);
             Node zp4 = new Node("周鹏11", 20);
+            Node zp5 = new Node("周鹏11", 28);
             list.Add(zp);
             list.Add(zp2);
             list.Add(zp3);
             list.Add(zp4);
+            list.Add(zp5);
             test.sortRun(list);
             for (int i = 0; i < list.Count; i++) 
             {

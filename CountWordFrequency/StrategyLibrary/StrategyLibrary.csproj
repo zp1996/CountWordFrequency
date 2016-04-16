@@ -43,14 +43,17 @@
   <ItemGroup>
     <Compile Include="BubbleExchangeSort.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="HeapSelectSort.cs" />
     <Compile Include="KMPMatch.cs" />
     <Compile Include="MatchStrategy.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="PrevForceMatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuickSort.cs" />
+    <Compile Include="ShellInsertSort.cs" />
     <Compile Include="SortStrategy.cs" />
     <Compile Include="StraightInsertSort.cs" />
+    <Compile Include="StrightSelectSort.cs" />
     <Compile Include="WordFrequency.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
